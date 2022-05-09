@@ -1,0 +1,4 @@
+prehandling data: experimental data before data handling / variable creation 
+working data: data of the CPR experiment including 144 subjects from India 
+total data: working data + working data of "Playing Nice in the Sandbox" which was also part of the publication (see other GitHub Repository). 
+
